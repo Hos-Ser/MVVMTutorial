@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMTutorial</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your Email</string>
+</resources>
